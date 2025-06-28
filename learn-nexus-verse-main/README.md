@@ -25,7 +25,7 @@ A modern, responsive web application that provides personalized learning experie
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Balaji-Ram-R/EduTech.git
    cd learn-nexus-verse-main
    ```
 
